@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+
+* {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}
+.link:hover {
+  color: #ff5252;
+}
+.MuiBadge-badge {
+  background-color: #ff5252 !important;
+}
