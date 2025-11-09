@@ -15,7 +15,7 @@ import { Pagination, Navigation, Autoplay } from 'swiper/modules'; // Added Navi
 const subSliderItems = [
   {
     id: 1,
-    src: 'https://images.unsplash.com/photo-1579952723402-951590214a60?fit=crop&w=600&h=400&q=80',
+    src: 'https://www.istockphoto.com/photo/soccer-ball-isolated-on-the-white-background-gm610241662-104719949?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FPro-Soccer-Ball&utm_term=Pro+Soccer+Ball%3A%3Alayout-below-fold-units-2%3Aexperiment',
     title: 'Pro Soccer Ball',
     description: 'Elevate your game with superior grip and flight.',
     price: '₦49.99',
@@ -79,7 +79,7 @@ const subSliderItems = [
   },
   {
     id: 9,
-    src: 'https://images.unsplash.com/photo-1517649763962-0c623063e269?fit=crop&w=600&h=400&q=80',
+    src: 'https://images.unsplash.com/photo-1648313021325-d81f28d57824?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=387',
     title: 'Hydration Bottle',
     description: 'Keep your fluids cold for hours during intense activity.',
     price: '₦22.00',
