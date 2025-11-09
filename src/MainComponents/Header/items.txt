@@ -1,0 +1,96 @@
+Categories we can start with:
+
+
+Sport Shoes
+
+1.  Running Shoes
+2.  Basketball Shoes
+3.  Soccer Cleats
+4.  Football Cleats
+5.  Tennis Shoes
+6.  Training Shoes
+
+
+Apparel
+
+"Jerseys",
+"Shorts",
+"Tracksuits",
+"Compression Gear",
+"Base Layers",
+"Socks",
+"Hats",
+"Gloves",
+
+
+Balls
+
+"Basketballs",
+"Soccer Balls",
+"Volleyballs",
+"Footballs",
+
+Rackets & Bats
+
+"Tennis Rackets    ", 
+"Badminton Rackets",
+"Squash Rackets",
+"Baseball Bats",
+"Softball Bats",
+"Cricket Bats",
+
+Protective Gear
+
+25. Helmets
+26. Pads
+27. Guards
+
+Fitness Technology
+
+28. Smartwatches
+29. Activity Trackers
+
+Weight Training Equipment
+
+30. Dumbbells
+31. Barbells
+32. Weight Plates
+33. Resistance Bands
+
+Yoga & Exercise
+
+34. Yoga Mats
+35. Exercise Bikes
+36. Treadmills
+37. Elliptical Machines
+
+Nutrition
+
+38. Protein Powder
+39. Energy Gels
+40. Supplements
+
+Accessories
+
+41. Water Bottles
+42. Gym Bags
+43. Backpacks
+44. Duffel Bags
+
+Team & Fan Gear
+
+45. Team Jerseys
+46. Hats
+
+Outdoor Gear
+
+47. Hiking Boots
+48. Camping Gear
+
+Cycling
+
+49. Bikes
+
+Monitoring
+
+50. Heart Rate Monitors

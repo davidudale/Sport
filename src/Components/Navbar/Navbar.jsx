@@ -53,7 +53,7 @@ const Navbar = () => {
           </div>
         </div>
       </div>
-      <div className="header border-b-[1px] border-gray-300 bg-primary">
+      <div className="header border-b-[1px] border-gray-300">
         <div className="container flex items-center py-2">
           <div className="col_1 w-[25%]">
             <Link to={"/"}>
