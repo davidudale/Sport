@@ -27,25 +27,25 @@ const sliderImages = [
   },
   {
     id: 3,
-    src: 'https://images.unsplash.com/photo-1552670737-02390a8a706b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    src: 'https://images.unsplash.com/photo-1721339039111-9b2ab749ae08?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1031',
     alt: 'Basketball player mid-action',
     caption: 'Dunk into Our Basketball Collection'
   },
   {
     id: 4,
-    src: 'https://images.unsplash.com/photo-1546862590-e07593c72b25?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    src: 'https://plus.unsplash.com/premium_photo-1663039820698-8bcf99ad5b74?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=869',
     alt: 'Tennis racket and ball on a court',
     caption: 'Ace Your Style with Tennis Gear'
   },
   {
     id: 5,
-    src: 'https://images.unsplash.com/photo-1521412643770-128a3952d43e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    src: 'https://images.unsplash.com/photo-1625669371422-eab5505831b2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870',
     alt: 'Cycling in nature',
     caption: 'Ride Further, Ride Stronger'
   },
   {
     id: 6,
-    src: 'https://images.unsplash.com/photo-1543851502-3932cf472ccf?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    src: 'https://plus.unsplash.com/premium_photo-1664536967999-f75d4f4b95fb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=871',
     alt: 'Gym workout equipment',
     caption: 'Achieve Your Fitness Goals'
   },
