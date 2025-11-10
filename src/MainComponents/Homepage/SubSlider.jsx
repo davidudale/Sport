@@ -89,8 +89,8 @@ const subSliderItems = [
 
 const SubSlider = () => {
   return (
-    <div className="container mx-auto px-4 py-8 lg:py-12">
-      <h2 className="text-3xl font-bold text-gray-800 mb-6 text-center">Featured Products</h2>
+    <div className="container mx-auto px-4 py-4 lg:py-4">
+      <h2 className="text-3xl font-bold text-gray-800 mb-3 text-center">Featured Products</h2>
       <Swiper
         // Responsive breakpoints for slidesPerView
         slidesPerView={1.2} // Show 1.2 slides on very small screens for a peek at the next
