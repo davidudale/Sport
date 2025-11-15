@@ -22,41 +22,8 @@ const FeatureBar = () => {
   ];
 
   return (
-    <section className="bg-red-400 py-3 md:py-16 ">
-      <div className="container mx-auto px-4">
-        
-        {/* Responsive Grid: Stacks on mobile, 3 columns on desktop */}
-        <div className="grid grid-cols-1 gap-8 md:grid-cols-3 lg:gap-12">
-          {features.map((feature, index) => (
-            
-            <div 
-              key={index} 
-              className="group flex flex-col items-center text-center p-6 sm:p-8 bg-gray-50 rounded-2xl transition duration-500 
-                         shadow-sm hover:shadow-xl hover:ring-4 hover:ring-indigo-100/50"
-            >
-              
-              {/* Icon Container: Large, vibrant, and changing on hover */}
-              <div className="p-2 bg-indigo-50 rounded-full mb-2 md:mb-6 
-                            group-hover:bg-indigo-600 transition duration-300">
-                <feature.icon 
-                  className="w-8 h-8 text-indigo-600 group-hover:text-white transition duration-300" 
-                  aria-hidden="true" 
-                />
-              </div>
-              
-              {/* Title */}
-              <h3 className="text-xl font-bold text-gray-900 mb-2">
-                {feature.title}
-              </h3>
-              
-              {/* Details */}
-              <p className="text-sm text-gray-600 max-w-xs">
-                {feature.details}
-              </p>
-            </div>
-          ))}
-        </div>
-      </div>
+    <section className="bg-red-400 py-2 mb-3 md:py-16 ">
+     
     </section>
   );
 };

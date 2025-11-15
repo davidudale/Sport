@@ -11,7 +11,7 @@ const Homepage = () => {
       <div>
         <TopHeader />
       </div>
-      <div>
+      <div className="mt-[200px]">
         <SwiperSlider />
       </div>
       <div>

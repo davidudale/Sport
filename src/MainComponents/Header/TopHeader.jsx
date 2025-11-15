@@ -23,7 +23,7 @@ const StyledBadge = styled(Badge)(({ theme }) => ({
 
 const TopHeader = () => {
   return (
-    <header>
+    <header className="fixed top-0 left-0 w-full z-30 shadow-xl bg-white">
       {/* 1. ANNOUNCEMENT BAR (Already responsive, slightly simplified comments) */}
       <div className="Container shadow-md px-4 bg-gray-100">
         <div className="top flex flex-col sm:flex-row items-center justify-between py-2">
@@ -56,7 +56,7 @@ const TopHeader = () => {
         </div>
       </div>
 
-      <div className="mid bg-white flex flex-col lg:flex-row items-center justify-between py-3 lg:py-5 border-b border-b-gray-200 px-4">
+      <div className="mid bg-white  flex flex-col lg:flex-row  items-center justify-between py-3 lg:py-5 border-b border-b-gray-200 px-4">
         <div className="col1 w-full lg:w-[25%] flex justify-center lg:justify-start mb-4 lg:mb-0">
           <div className="logo">
             {/* Adjusted class for image to be responsive but maintain max size */}
