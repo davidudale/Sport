@@ -182,11 +182,7 @@ const NavItems = () => {
         </div>
 
         {/* COL 3: Spacer or Additional Element (Desktop Only) */}
-        <div className="hidden lg:block lg:w-1/5 xl:w-1/12">
-          <p className="text-[12px] flex gap-2 mb-0 mt-0 items-center ">
-            <MdOutlineRocketLaunch className="" /> Free International Delivery
-          </p>
-        </div>
+        
       </div>
 
       {/* Sidebar Component (Mobile Menu) */}

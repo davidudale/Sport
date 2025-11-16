@@ -11,15 +11,17 @@ const Homepage = () => {
       <div>
         <TopHeader />
       </div>
-      <div className="mt-[200px]">
-        <SwiperSlider />
-      </div>
-      <div>
-        <SubSlider />
-      </div>
-      <div>
-        <FeatureBar />
-      </div>
+      <body className="p-5  ">
+        <div className="mt-[140px] ">
+          <SwiperSlider />
+        </div>
+        <div>
+          <SubSlider />
+        </div>
+        <div>
+          <FeatureBar />
+        </div>
+      </body>
     </>
   );
 };

@@ -26,7 +26,7 @@ const TopHeader = () => {
     <header className="fixed top-0 left-0 w-full z-30 shadow-xl bg-white">
       {/* 1. ANNOUNCEMENT BAR (Already responsive, slightly simplified comments) */}
       <div className="Container shadow-md px-4 bg-gray-100">
-        <div className="top flex flex-col sm:flex-row items-center justify-between py-2">
+        <div className="top flex flex-col sm:flex-row items-center justify-between py-1">
           <div className="col1 w-full text-center sm:w-auto sm:text-left mb-2 sm:mb-0">
             <p className="text-[14px] font-[600]">
               Get up to 50% off new season styles, limited time only
@@ -56,7 +56,7 @@ const TopHeader = () => {
         </div>
       </div>
 
-      <div className="mid bg-white  flex flex-col lg:flex-row  items-center justify-between py-3 lg:py-5 border-b border-b-gray-200 px-4">
+      <div className="mid bg-white  flex flex-col lg:flex-row  items-center justify-between py-1 lg:py-1  px-4">
         <div className="col1 w-full lg:w-[25%] flex justify-center lg:justify-start mb-4 lg:mb-0">
           <div className="logo">
             {/* Adjusted class for image to be responsive but maintain max size */}
@@ -122,7 +122,7 @@ const TopHeader = () => {
           </div>
         </div>
       </div>
-      <div className="lastHeader border-b-[1px] border-gray-300">
+      <div className="lastHeader  border-gray-300">
         <NavItems />
       </div>
     </header>
